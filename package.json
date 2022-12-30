@@ -31,7 +31,7 @@
     "codeowners-utils": "^1.0.2",
     "path": "^0.12.7",
     "type-guards": "^0.15.0",
-    "yaml": "^1.10.2"
+    "yaml": "^2.2.1"
   },
   "devDependencies": {
     "@types/node": "^16.6.1",
